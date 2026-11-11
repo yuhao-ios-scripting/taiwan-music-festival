@@ -1,7 +1,7 @@
 {
-  "name": "Taiwan Music Festival",
+  "name": "台灣音樂祭",
   "description": "即將到來的音樂祭：陣容、演出、地圖與公告",
-  "version": "0.17.003",
+  "version": "0.17.005",
   "icon": "music.mic",
   "color": "#E4572E"
 }
