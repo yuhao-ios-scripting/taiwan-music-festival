@@ -2592,7 +2592,7 @@ function FestivalDetail({ festival: festival2, artists, now }) {
 }
 
 // scripts/src/domain/version.ts
-var APP_VERSION = "0.17.002";
+var APP_VERSION = "0.17.003";
 
 // scripts/src/ui/ArtistsTab.tsx
 import { HStack as HStack7, Image as Image6, List as List6, NavigationLink as NavigationLink5, Section as Section6, Spacer as Spacer7, Text as Text9, TextField, Toggle, VStack as VStack8, useState as useState7 } from "scripting";
